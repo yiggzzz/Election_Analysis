@@ -53,6 +53,8 @@
      - Arapahoe received 6.7% of the vote and (24,801) number of votes.
 - The county with the largest turnout from the election was:
      - Denver received 82.8% of the vote and (306,055) number of votes.
+
+This code can be used for any elections, using .csv data with similar inputs.
     
 ## Challenge Overview
 * Navigating to folders on your computer using the command line.
