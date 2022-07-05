@@ -5,6 +5,7 @@
 # 4. The total nunber of votes each candidate won
 # 5. The winner of the election based on popular vote
 
+# Reading the election results from file
 # Add our dependencies.
 import csv
 import os
